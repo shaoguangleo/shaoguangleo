@@ -1,5 +1,12 @@
-# Hello there 👋  :tada:
-I am a senior software engineer working on radio astronomy :telescope:.  My major field of study is astronomical technique and methods. In my full time :clock8:, I explored the VLBI technique and developed several software to support it. And in my spare time :clock830:, I would like reading and writing.
+# Hello there 👋
+
+I'm a father of twin boys :boy::boy: and also an radio astronomer :telescope: working at the Shanghai Astronomy Observatory(SHAO). 
+
+In my time as an astronomer I explored the VLBI technique and SKA project, and developed software workflows to support radio astronomy data recording, transferring, processing and simulation:clock8:. 
+
+At the SHAO I currently involve the research and development in SKA era, support astronomers via the ChinaSRC-P, maintain the ChinaSRC-P, and support variety of data science projects within SHAO.
+
+And in my spare time :clock830:, I like reading and writing.
 
 
 
@@ -15,5 +22,18 @@ I am a senior software engineer working on radio astronomy :telescope:.  My majo
 
 
 
+<h2 align="left">Languages and Tools:</h2>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="images/bash-original.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="images/django-plain.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="images/docker-original.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="images/git-original.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="images/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="images/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> 
+</p>
 
 
+
+
+
+## About me on wakatime
+
+
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shaoguangleo&layout=compact&theme=radical&langs_count=10" alt="shaoguangleo" /></p>
