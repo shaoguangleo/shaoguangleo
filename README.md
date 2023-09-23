@@ -15,17 +15,5 @@ And in my spare time :clock830:, I like reading and writing.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=shaoguangleo&count_private=true&show_icons=true&show_owner=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=shaoguangleo&show_icons=true&locale=en&layout=compact&exclude_repo=shaoguangleo.github.io&langs_count=10&theme=radical)
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaoguangleo&show_icons=true&locale=en&layout=compact&exclude_repo=shaoguangleo.github.io&langs_count=10&theme=radical" alt="shaoguangleo" /></p>
-
-
-
-<h2 align="left">Languages and Tools:</h2>
-
-
-## About me on wakatime
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shaoguangleo&layout=compact&theme=radical&langs_count=10" alt="shaoguangleo" /></p>
