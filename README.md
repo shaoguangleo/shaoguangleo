@@ -1,12 +1,18 @@
 # Hello there 👋
 
-I'm a father of twin boys :boy::boy: and also an radio astronomer :telescope: working at the Shanghai Astronomy Observatory(SHAO). 
+I'm a proud father of twin boys :boy::boy: and also a radio astronomer :telescope: deeply engaged in unraveling the mysteries of the universe working at the Shanghai Astronomy Observatory(SHAO). 
 
-In my time as an astronomer I explored the VLBI technique and SKA project, and developed software workflows to support radio astronomy data recording, transferring, processing and simulation:clock8:. 
+My journey in astronomy has led me to explore the intricacies of Very Long Baseline Interferometry (VLBI) techniques which was used in CELP and the groundbreaking Square Kilometre Array (SKA) project. 
 
-At the SHAO I currently involve the research and development in SKA era, support astronomers via the ChinaSRC-P, maintain the ChinaSRC-P, and support variety of data science projects within SHAO.
+Leading the Research and Development (R&D) efforts for the SKA Regional Center at SHAO, I'm at the forefront of developing innovative solutions for the era of big data astronomy. 
+This involves creating and implementing software workflows to efficiently handle the massive data streams (PB scale) from radio telescopes, encompassing recording(32Gbps), transferring, processing, and simulation :clock8:. 
 
-And in my spare time :clock830:, I like reading and writing.
+At SHAO, my current work is centered around the research and development crucial for the SKA era, where I support fellow astronomers through the cnSRC platform and contribute to its prototypes's maintenance. 
+
+Additionally, I actively support and maintain a diverse range of data science projects.
+
+In my downtime :coffee: , I find joy and intellectual stimulation in reading and writing.
+
 
 
 
