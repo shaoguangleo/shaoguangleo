@@ -7,7 +7,7 @@ My journey in astronomy has led me to explore the intricacies of Very Long Basel
 Leading the Research and Development (R&D) efforts for the SKA Regional Center at SHAO, I'm at the forefront of developing innovative solutions for the era of big data astronomy. 
 This involves creating and implementing software workflows to efficiently handle the massive data streams (PB scale) from radio telescopes, encompassing recording(32Gbps), transferring, processing, and simulation :clock8:. 
 
-At SHAO, my current work is centered around the research and development crucial for the SKA era, where I support fellow astronomers through the cnSRC platform and contribute to its prototypes's maintenance. 
+At SHAO, my current work focused on cutting-edge research in radio data processsing(baseband/correlation/imaging), as well as algorithm and software development - an initiative I refer to as "X-lab". Through this endeavor, I aim to provide comprehensive support, from the underlying infrastructure to application layers, from our future synthesis array and radio telescopes.
 
 Additionally, I actively support and maintain a diverse range of data science projects.
 
